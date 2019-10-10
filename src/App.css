@@ -99,4 +99,9 @@ outline: 3px solid transparent; /* For Windows high contrast mode. */
     left: auto;
     right: 1.5rem;
   }
+
+  .wrapper {
+    width: 61%;
+    justify-content: center;
+  }
 }
