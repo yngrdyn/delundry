@@ -1,25 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './logoDelundryWhite.png';
 import './App.css';
+import { HashRouter } from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <HashRouter basename='/'>
+        <header className="top">
+          <img src={logo} className="logo" alt="logo" />
+          <div className="wrapper">
+            <input id="a11y-issue-1" name="a11y-issues" type="checkbox" checked/>
+            <label for="a11y-issue-1">Laundry day, done.</label>
+          </div>
+        </header>
+    </HashRouter>
   );
 }
 
