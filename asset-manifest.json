@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/delundry/static/css/main.b100e6da.chunk.css",
+    "main.js": "/delundry/static/js/main.b9245098.chunk.js",
+    "main.js.map": "/delundry/static/js/main.b9245098.chunk.js.map",
+    "runtime-main.js": "/delundry/static/js/runtime-main.f5559bd8.js",
+    "runtime-main.js.map": "/delundry/static/js/runtime-main.f5559bd8.js.map",
+    "static/js/2.6ad6f0a0.chunk.js": "/delundry/static/js/2.6ad6f0a0.chunk.js",
+    "static/js/2.6ad6f0a0.chunk.js.map": "/delundry/static/js/2.6ad6f0a0.chunk.js.map",
+    "index.html": "/delundry/index.html",
+    "precache-manifest.67a138a6ecd200e2d9887ce2883488e9.js": "/delundry/precache-manifest.67a138a6ecd200e2d9887ce2883488e9.js",
+    "service-worker.js": "/delundry/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/delundry/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/delundry/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5559bd8.js",
+    "static/js/2.6ad6f0a0.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.b9245098.chunk.js"
+  ]
+}
