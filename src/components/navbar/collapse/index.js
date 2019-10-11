@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
 import { animated } from 'react-spring';
 
@@ -9,8 +10,9 @@ const Collapse = (props) => {
     return (
       <CollapseWrapper>
         <NavLinks>
-          <li><a href="/about-us" onClick={props.handleNavbar}>About us</a></li>
-          <li><a href="/pricing" onClick={props.handleNavbar}>Pricing</a></li>
+          <li><Link to="/" onClick={props.handleNavbar}>Home</Link></li>
+          <li><Link to="/about-us" onClick={props.handleNavbar}>About us</Link></li>
+          <li><Link to="/pricing" onClick={props.handleNavbar}>Pricing</Link></li>
         </NavLinks>
       </CollapseWrapper>
     );
