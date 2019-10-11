@@ -7,7 +7,7 @@ import logo from "../../../assets/logoDelundryWhite.png";
 
 const Brand = () => {
   return (
-    <Link to="/"><Image src={logo} alt="Company Logo" /></Link>
+    <Link to="/"><Image src={logo} alt="Delundry logo" /></Link>
   )
 }
 
