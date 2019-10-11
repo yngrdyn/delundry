@@ -9,7 +9,7 @@ function App() {
         <header className="top">
           <img src={logo} className="logo" alt="logo" />
           <div className="wrapper">
-            <input id="checkbox" type="checkbox" checked disabled/>
+            <input id="checkbox" type="checkbox" checked/>
             <label htmlFor="checkbox">Laundry day, done.</label>
           </div>
         </header>

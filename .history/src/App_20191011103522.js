@@ -9,8 +9,8 @@ function App() {
         <header className="top">
           <img src={logo} className="logo" alt="logo" />
           <div className="wrapper">
-            <input id="checkbox" type="checkbox" checked disabled/>
-            <label htmlFor="checkbox">Laundry day, done.</label>
+            <input id="a11y-issue-1" name="a11y-issues" type="checkbox" checked/>
+            <label for="a11y-issue-1">Laundry day, done.</label>
           </div>
         </header>
     </HashRouter>
