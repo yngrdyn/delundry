@@ -21,7 +21,7 @@ const Collapse = (props) => {
 export default Collapse;
 
 const CollapseWrapper = styled(animated.div)`
-  background: #432e67;
+  background: #202040;
   position: fixed;
   top: 4.5rem;
   left: 0;
@@ -31,7 +31,7 @@ const CollapseWrapper = styled(animated.div)`
 
 const NavLinks = styled.ul`
   list-style-type: none;
-  padding: 0rem 1rem 2rem 2rem;
+  padding: 0rem 1rem 3rem 2rem;
 
   & li {
     transition: all 300ms linear 0s;
