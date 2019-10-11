@@ -12,12 +12,15 @@ const Brand = () => {
 export default Brand
 
 const Image = styled.img`
-  width: 8rem;
-  margin: auto 0;
+  width: 11rem;
+  position: absolute;
+  left: 3rem;
+  top: 1.8rem;
 
   @media (max-width: 768px) {
     position: absolute;
     right: 1rem;
     top: 1.8rem;
+    width: 8rem;
   }
 `;
