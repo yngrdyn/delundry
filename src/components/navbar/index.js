@@ -8,21 +8,17 @@ import Burger from "./burger";
 import Collapse from "./collapse";
 
 const Navbar = (props) => {
-  const barAnimation = useSpring({
-    from: { transform: 'translate3d(0, -10rem, 0)' },
-    transform: 'translate3d(0, 0, 0)',
-  });
 
   const linkAnimation = useSpring({
     from: { transform: 'translate3d(0, 30px, 0)', opacity: 0 },
     to: { transform: 'translate3d(0, 0, 0)', opacity: 1 },
-    delay: 800,
+    delay: 300,
     config: config.wobbly,
   });
 
   return (
     <>
-      <NavBar style={barAnimation}>
+      <NavBar>
         <FlexContainer>
             <BurgerWrapper>
                 <Burger

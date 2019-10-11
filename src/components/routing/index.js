@@ -7,7 +7,6 @@ import Pricing from "../pricing";
 import App from "../../App";
 import Navbar from "../navbar";
 
-
 class Routes extends Component {
 
     state = {
@@ -39,5 +38,5 @@ class Routes extends Component {
 export default Routes
 
 const Wrapper = styled.div`
-  margin-top: 5rem;
+  padding: 7rem 0 0;
 `;
