@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 import './App.css';
 import HowItWorks from './components/how-it-works';
+import OurServices from './components/our-services';
 
 class App extends Component {
 
@@ -15,6 +16,7 @@ class App extends Component {
           </div>
         </header>
         <HowItWorks></HowItWorks>
+        <OurServices></OurServices>
       </div>
     );
   }
