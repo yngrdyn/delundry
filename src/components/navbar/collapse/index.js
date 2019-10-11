@@ -9,8 +9,8 @@ const Collapse = (props) => {
     return (
       <CollapseWrapper>
         <NavLinks>
-          <li><a href="/" onClick={props.handleNavbar}>About us</a></li>
-          <li><a href="/" onClick={props.handleNavbar}>Pricing</a></li>
+          <li><a href="/about-us" onClick={props.handleNavbar}>About us</a></li>
+          <li><a href="/pricing" onClick={props.handleNavbar}>Pricing</a></li>
         </NavLinks>
       </CollapseWrapper>
     );
@@ -38,7 +38,7 @@ const NavLinks = styled.ul`
   }
 
   & a {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     line-height: 2;
     color: #dfe6e9;
     text-transform: uppercase;
