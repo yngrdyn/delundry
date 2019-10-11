@@ -28,8 +28,8 @@ const Navbar = (props) => {
             </BurgerWrapper>
             <Brand />
             <NavLinks style={linkAnimation}>
-                <Link to="/about-us">About us</Link>
-                <a href="/pricing">pricing</a>
+                <Link to="/about-us">Nosotros</Link>
+                <a href="/pricing">Precios</a>
             </NavLinks>
         </FlexContainer>
       </NavBar>

@@ -1,0 +1,37 @@
+.how-it-works {
+    padding: 1.5rem 2rem;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.6rem; 
+    color: #774181;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 0.95rem; 
+    font-weight: 400;
+    margin-top: -0.5rem;
+    color: #474a56;
+}
+
+@media (min-width: 769px) {
+    .how-it-works {
+        margin: 0 auto;
+        width: 80%;
+        padding: 1.5rem 2rem;
+    }
+
+    h1 {
+        font-size: 2rem; 
+    }
+    
+    h3 {
+        margin-top: -1rem;
+        font-size: 1.2rem;
+    }
+}

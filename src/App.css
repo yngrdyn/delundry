@@ -96,5 +96,13 @@ outline: 3px solid transparent; /* For Windows high contrast mode. */
 
   .wrapper {
     margin-top: 3rem;
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .wrapper label {
+    font-size: 1.8rem;
   }
 }

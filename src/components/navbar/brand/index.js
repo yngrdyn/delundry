@@ -1,11 +1,13 @@
 import React from 'react'
 import styled from "styled-components";
 
+import { Link } from 'react-router-dom';
+
 import logo from "../../../assets/logoDelundryWhite.png";
 
 const Brand = () => {
   return (
-    <Image src={logo} alt="Company Logo" />
+    <Link to="/"><Image src={logo} alt="Company Logo" /></Link>
   )
 }
 

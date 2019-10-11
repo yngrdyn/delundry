@@ -10,9 +10,9 @@ const Collapse = (props) => {
     return (
       <CollapseWrapper>
         <NavLinks>
-          <li><Link to="/" onClick={props.handleNavbar}>Home</Link></li>
-          <li><Link to="/about-us" onClick={props.handleNavbar}>About us</Link></li>
-          <li><Link to="/pricing" onClick={props.handleNavbar}>Pricing</Link></li>
+          <li><Link to="/" onClick={props.handleNavbar}>Inicio</Link></li>
+          <li><Link to="/about-us" onClick={props.handleNavbar}>Nosotros</Link></li>
+          <li><Link to="/pricing" onClick={props.handleNavbar}>Precios</Link></li>
         </NavLinks>
       </CollapseWrapper>
     );
@@ -33,7 +33,7 @@ const CollapseWrapper = styled(animated.div)`
 
 const NavLinks = styled.ul`
   list-style-type: none;
-  padding: 0rem 1rem 2rem 2rem;
+  padding: 0rem 1rem 1rem 2rem;
 
   & li {
     transition: all 300ms linear 0s;
