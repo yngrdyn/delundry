@@ -1,0 +1,80 @@
+.how-it-works {
+    padding: 1.5rem 2rem;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.6rem; 
+    color: #774181;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 0.95rem; 
+    font-weight: 400;
+    margin-top: -0.5rem;
+    color: #474a56;
+    margin-bottom: 2rem;
+}
+
+.steps {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.step-img img {
+    width: 3rem;
+}
+
+.step-img {
+    border: 1px solid #723881;
+    border-radius: 100%;
+    padding: 1rem;
+    width: 3rem;
+    height: 3rem;
+}
+
+.step-info {
+    margin-top: 0.75rem;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    color: #3c4245;
+}
+
+.step-info span {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: bold;
+    letter-spacing: 0.3px;
+}
+
+.step-info p {
+    margin-top: 0.25rem;
+    text-align: center;
+}
+
+@media (min-width: 769px) {
+    .how-it-works {
+        margin: 0 auto;
+        width: 80%;
+        padding: 1.5rem 2rem;
+    }
+
+    h1 {
+        font-size: 2rem; 
+    }
+    
+    h3 {
+        margin-top: -1rem;
+        font-size: 1.2rem;
+    }
+}

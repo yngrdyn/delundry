@@ -1,20 +1,23 @@
-import React from 'react';
-import logo from './logoDelundryWhite.png';
-import './App.css';
-import { HashRouter } from "react-router-dom";
+import React, { Component } from 'react';
 
-function App() {
-  return (
-    <HashRouter basename='/'>
+import './App.css';
+import HowItWorks from './components/how-it-works';
+
+class App extends Component {
+
+  render() {
+    return (
+      <div>
         <header className="top">
-          <img src={logo} className="logo" alt="logo" />
           <div className="wrapper">
-            <input id="a11y-issue-1" name="a11y-issues" type="checkbox" checked/>
-            <label for="a11y-issue-1">Laundry day, done.</label>
+            <input id="checkbox" type="checkbox" checked disabled/>
+            <label htmlFor="checkbox">Día de lavandería, listo.</label>
           </div>
         </header>
-    </HashRouter>
-  );
+        <HowItWorks></HowItWorks>
+      </div>
+    );
+  }
 }
 
 export default App;
