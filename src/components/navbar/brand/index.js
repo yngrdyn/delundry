@@ -16,11 +16,11 @@ const Image = styled.img`
   position: absolute;
   left: 3rem;
   top: 1.8rem;
+  right: auto;
 
   @media (max-width: 768px) {
-    position: absolute;
     right: 1rem;
-    top: 1.8rem;
     width: 8rem;
+    left: auto;
   }
 `;
