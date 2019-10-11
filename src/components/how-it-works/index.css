@@ -23,6 +23,7 @@ h3 {
 .steps {
     display: flex;
     flex-direction: column;
+    margin-bottom: 2rem;
 }
 
 .step {
@@ -70,16 +71,28 @@ h3 {
 @media (min-width: 769px) {
     .how-it-works {
         margin: 0 auto;
-        width: 80%;
+        width: 85%;
         padding: 1.5rem 2rem;
     }
 
     h1 {
-        font-size: 2rem; 
+        font-size: 1.5rem; 
     }
     
     h3 {
         margin-top: -1rem;
-        font-size: 1.2rem;
+        font-size: 0.9rem;
+    }
+
+    .steps {
+        flex-direction: row;
+    }
+
+    .step-info span {
+        font-size: 0.9rem;
+    }
+
+    .step-info p {
+        font-size: 0.85rem;
     }
 }

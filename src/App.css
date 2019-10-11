@@ -33,7 +33,7 @@ header h1 {
   padding: 12px 0 12px 35px;
   color: #fff;
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 
 /*style and hide original checkbox*/
@@ -96,13 +96,13 @@ outline: 3px solid transparent; /* For Windows high contrast mode. */
 
   .wrapper {
     margin-top: 3rem;
-    width: 75%;
+    width: 70%;
     display: flex;
     justify-content: center;
     align-items: center;
   }
 
   .wrapper label {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
   }
 }

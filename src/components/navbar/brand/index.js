@@ -14,7 +14,7 @@ const Brand = () => {
 export default Brand
 
 const Image = styled.img`
-  width: 11rem;
+  width: 8rem;
   position: absolute;
   left: 3rem;
   top: 1.8rem;
