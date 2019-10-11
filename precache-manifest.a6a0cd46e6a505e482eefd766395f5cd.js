@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "039e1971cc6d970a704b025af81631f5",
+    "revision": "f50323930639eb1e19163c499ac07616",
     "url": "/delundry/index.html"
   },
   {
-    "revision": "f2321eb8f6f16b395ef1",
+    "revision": "181fc9532459bd608caf",
     "url": "/delundry/static/css/main.f95914e9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/delundry/static/js/2.2b572ed6.chunk.js"
   },
   {
-    "revision": "f2321eb8f6f16b395ef1",
-    "url": "/delundry/static/js/main.670a2361.chunk.js"
+    "revision": "181fc9532459bd608caf",
+    "url": "/delundry/static/js/main.c376a7b0.chunk.js"
   },
   {
     "revision": "529c5f847e989f535ea7",
@@ -30,5 +30,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fb0574ef4edfe1134423f963d713102d",
     "url": "/delundry/static/media/washer.fb0574ef.svg"
+  },
+  {
+    "revision": "7c619d49169154cc2abaf5e864c1ddcb",
+    "url": "/delundry/static/media/washing-machine.7c619d49.svg"
   }
 ]);

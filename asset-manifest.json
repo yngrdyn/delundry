@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/delundry/static/css/main.f95914e9.chunk.css",
-    "main.js": "/delundry/static/js/main.670a2361.chunk.js",
-    "main.js.map": "/delundry/static/js/main.670a2361.chunk.js.map",
+    "main.js": "/delundry/static/js/main.c376a7b0.chunk.js",
+    "main.js.map": "/delundry/static/js/main.c376a7b0.chunk.js.map",
     "runtime-main.js": "/delundry/static/js/runtime-main.95f565fc.js",
     "runtime-main.js.map": "/delundry/static/js/runtime-main.95f565fc.js.map",
     "static/js/2.2b572ed6.chunk.js": "/delundry/static/js/2.2b572ed6.chunk.js",
     "static/js/2.2b572ed6.chunk.js.map": "/delundry/static/js/2.2b572ed6.chunk.js.map",
     "index.html": "/delundry/index.html",
-    "precache-manifest.3cd2eaeaedfe01ab07c40d7a9ff5b4d4.js": "/delundry/precache-manifest.3cd2eaeaedfe01ab07c40d7a9ff5b4d4.js",
+    "precache-manifest.a6a0cd46e6a505e482eefd766395f5cd.js": "/delundry/precache-manifest.a6a0cd46e6a505e482eefd766395f5cd.js",
     "service-worker.js": "/delundry/service-worker.js",
     "static/css/main.f95914e9.chunk.css.map": "/delundry/static/css/main.f95914e9.chunk.css.map",
     "static/media/dance.svg": "/delundry/static/media/dance.b1c11f5c.svg",
     "static/media/mobile.svg": "/delundry/static/media/mobile.e752dd8e.svg",
-    "static/media/washer.svg": "/delundry/static/media/washer.fb0574ef.svg"
+    "static/media/washer.svg": "/delundry/static/media/washer.fb0574ef.svg",
+    "static/media/washing-machine.svg": "/delundry/static/media/washing-machine.7c619d49.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.95f565fc.js",
     "static/js/2.2b572ed6.chunk.js",
     "static/css/main.f95914e9.chunk.css",
-    "static/js/main.670a2361.chunk.js"
+    "static/js/main.c376a7b0.chunk.js"
   ]
 }
