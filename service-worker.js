@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/delundry/precache-manifest.351cd6d697ec64411defa4beb24a6acb.js"
+  "/delundry/precache-manifest.ed89b37e606aa413e0f2a0b549d2b2c5.js"
 );
 
 self.addEventListener('message', (event) => {
