@@ -26,7 +26,7 @@ const Image = styled.img`
 `;
 
 const Logo = styled.span`
-  width: 12rem;
+  width: 11rem;
   position: absolute;
   left: 2rem;
   top: 2rem;
