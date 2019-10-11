@@ -11,7 +11,7 @@ class App extends Component {
         <header className="top">
           <div className="wrapper">
             <input id="checkbox" type="checkbox" checked disabled/>
-            <label htmlFor="checkbox">Día de lavandería, hecho.</label>
+            <label htmlFor="checkbox">Día de lavandería, listo.</label>
           </div>
         </header>
         <HowItWorks></HowItWorks>
