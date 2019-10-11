@@ -1,23 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e2a03f9a827fe743863616343a3d45f",
+    "revision": "274bc5c3683968daea2b86911f6ec3d2",
     "url": "/delundry/index.html"
   },
   {
-    "revision": "b5427e412b6eda87bf0a",
-    "url": "/delundry/static/css/main.50d469f2.chunk.css"
+    "revision": "cdaf49d17efae599f43a",
+    "url": "/delundry/static/css/main.9ed6324f.chunk.css"
   },
   {
-    "revision": "017b6efc93648f7996cd",
-    "url": "/delundry/static/js/2.2b572ed6.chunk.js"
+    "revision": "4c063e19a2dea4783f7c",
+    "url": "/delundry/static/js/2.450aac75.chunk.js"
   },
   {
-    "revision": "b5427e412b6eda87bf0a",
-    "url": "/delundry/static/js/main.f2ab0f41.chunk.js"
+    "revision": "cdaf49d17efae599f43a",
+    "url": "/delundry/static/js/main.79f7514d.chunk.js"
   },
   {
     "revision": "529c5f847e989f535ea7",
     "url": "/delundry/static/js/runtime-main.95f565fc.js"
+  },
+  {
+    "revision": "f3b0da0c3a06e6d33cdf182d70081e83",
+    "url": "/delundry/static/media/bag10.f3b0da0c.svg"
+  },
+  {
+    "revision": "029ea397196e1fde58a76a1125be1f7d",
+    "url": "/delundry/static/media/bag18.029ea397.svg"
   },
   {
     "revision": "b1c11f5cc216b1e4779f28041292bfc8",
