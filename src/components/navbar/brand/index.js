@@ -3,26 +3,44 @@ import styled from "styled-components";
 
 import { Link } from 'react-router-dom';
 
-import logo from "../../../assets/logoDelundryWhite.png";
+import machine from '../../../assets/washing-machine.svg';
 
 const Brand = () => {
   return (
-    <Link to="/"><Image src={logo} alt="Delundry logo" /></Link>
+    <Link to="/">
+      <Logo>
+        <span>Iberic Laundry</span>
+        <Image src={machine}></Image>
+      </Logo>
+    </Link>
   )
 }
 
 export default Brand
 
 const Image = styled.img`
-  width: 8rem;
+  width: 1rem;
+  @media (max-width: 768px) {
+    width: 1.1rem;
+  }
+`;
+
+const Logo = styled.span`
+  width: 12rem;
   position: absolute;
-  left: 3rem;
-  top: 1.8rem;
+  left: 2rem;
+  top: 2rem;
   right: auto;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 0.05rem;
+  display: flex;
+  justify-content: space-evenly
 
   @media (max-width: 768px) {
     right: 1rem;
-    width: 8rem;
+    width: 11rem;
     left: auto;
   }
 `;
