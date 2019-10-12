@@ -2,10 +2,13 @@ import React, { Component } from "react"
 import { Route } from "react-router-dom"
 import styled from "styled-components";
 
+import Navbar from "../navbar";
+import App from "../../App";
 import AboutUs from "../about-us";
 import Pricing from "../pricing";
-import App from "../../App";
-import Navbar from "../navbar";
+import HowWeDoIt from "../how-we-do-it";
+import ContactUs from "../contact-us";
+import Faqs from "../faqs";
 
 class Routes extends Component {
 
@@ -27,7 +30,10 @@ class Routes extends Component {
                 <Wrapper>
                     <Route exact path="/" component={App} />
                     <Route path="/about-us" component={AboutUs} />
+                    <Route path="/how-we-do-it" component={HowWeDoIt} />
                     <Route path="/pricing" component={Pricing} />
+                    <Route path="/contact-us" component={ContactUs} />
+                    <Route path="/faqs" component={Faqs} />
                 </Wrapper>
             </div>
         )

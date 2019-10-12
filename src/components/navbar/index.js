@@ -29,7 +29,10 @@ const Navbar = (props) => {
             <Brand />
             <NavLinks style={linkAnimation}>
                 <Link to="/about-us">Nosotros</Link>
-                <a href="/pricing">Precios</a>
+                <Link to="/how-we-do-it">Cómo lo hacemos?</Link>
+                <Link to="/pricing">Precios</Link>
+                <Link to="/contact-us">Contáctanos</Link>
+                <Link to="/faqs">Preguntas Frecuentes</Link>
             </NavLinks>
         </FlexContainer>
       </NavBar>
