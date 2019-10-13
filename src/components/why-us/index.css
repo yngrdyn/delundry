@@ -1,0 +1,29 @@
+.why-us {
+    padding: 0 1rem;
+}
+
+.why {
+    height: 20rem;
+    width: 90%;
+    margin: 0 auto;
+    display: flex !important;
+    align-items: center;
+    flex-direction: column;
+}
+
+.why img {
+    width: 4rem;
+    margin-top: 1rem;
+}
+
+.why .title {
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: -0.02rem;
+    margin-top: 1rem;
+}
+
+.why .content {
+    margin-top: 1rem;
+    padding: 0 1rem 1rem;
+}
