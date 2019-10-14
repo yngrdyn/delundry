@@ -72,11 +72,11 @@ h3 {
     .how-it-works {
         margin: 0 auto;
         width: 85%;
-        padding: 1.5rem 2rem;
     }
 
-    h1 {
+    .how-it-works h1 {
         font-size: 1.5rem; 
+        margin-top: 3rem !important;
     }
     
     h3 {

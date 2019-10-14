@@ -89,7 +89,7 @@ h1 {
 
     .service {
         padding: 0;
-        max-width: 50%;
+        width: 50%;
     }
 
     .left .service-img span {
