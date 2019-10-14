@@ -3,7 +3,6 @@
 }
 
 .why {
-    height: 20rem;
     width: 90%;
     margin: 0 auto;
     display: flex !important;
@@ -25,5 +24,6 @@
 
 .why .content {
     margin-top: 1rem;
-    padding: 0 1rem 1rem;
+    padding: 0 2rem 1rem;
+    text-align: center;
 }
