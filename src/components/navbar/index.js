@@ -79,13 +79,14 @@ const NavLinks = styled(animated.ul)`
     text-transform: uppercase;
     font-weight: 600;
     border-bottom: 1px solid transparent;
-    margin: 0 1rem;
+    margin: 0 0.5rem;
     transition: all 300ms linear 0s;
     text-decoration: none;
     cursor: pointer;
+    font-size: 0.85rem;
 
     &:hover {
-      color: #352961;
+      color: #caadde;
     }
 
     @media (max-width: 768px) {

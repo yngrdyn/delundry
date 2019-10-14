@@ -76,12 +76,9 @@ h1 {
 }
 
 @media (min-width: 769px) {
-    .our-services {
-        height: 20rem;
-    }
 
     h1 {
-        margin-top: 4rem;
+        margin-top: 6rem;
     }
 
     .service-list {

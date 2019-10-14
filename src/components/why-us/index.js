@@ -17,18 +17,29 @@ class WhyUs extends Component {
     var settings = {
       dots: true,
       infinite: true,
-      slidesToShow: 1,
-      slidesToScroll: 1,
+      slidesToShow: 3,
+      slidesToScroll: 3,
       autoplay: true,
-      speed: 5000,
-      autoplaySpeed: 1000,
+      speed: 500,
+      autoplaySpeed: 5000,
       swipeToSlide: true,
       swipe: true,
+      responsive: [
+        {
+          breakpoint: 769,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            infinite: true,
+            dots: true,
+          }
+        },
+      ],
     };
 
     return (
       <div className="why-us">
-          <h1>Por qué elegrinos?</h1>
+          <h1>Por qué elegirnos?</h1>
           <Slider {...settings}>
             <div className="why">
               <img src={bubbles} alt="icono higiene"></img>
