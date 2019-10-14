@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a45923cdd4f7f594f5ecf3ae8c93665b",
+    "revision": "10b5c73b33a7e31ef1776280cd7731c5",
     "url": "/delundry/index.html"
   },
   {
-    "revision": "cdce55813a7a5e52113b",
+    "revision": "a286b7227aadbb8c7451",
     "url": "/delundry/static/css/2.3d3b1026.chunk.css"
   },
   {
-    "revision": "8ecaeb5ceaebccd3d505",
-    "url": "/delundry/static/css/main.d1805f18.chunk.css"
+    "revision": "63618070064152557ea0",
+    "url": "/delundry/static/css/main.487f6c98.chunk.css"
   },
   {
-    "revision": "cdce55813a7a5e52113b",
-    "url": "/delundry/static/js/2.6ee0a579.chunk.js"
+    "revision": "a286b7227aadbb8c7451",
+    "url": "/delundry/static/js/2.dc935528.chunk.js"
   },
   {
-    "revision": "8ecaeb5ceaebccd3d505",
-    "url": "/delundry/static/js/main.f6c31803.chunk.js"
+    "revision": "63618070064152557ea0",
+    "url": "/delundry/static/js/main.748911ba.chunk.js"
   },
   {
     "revision": "529c5f847e989f535ea7",
@@ -40,12 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/delundry/static/media/dance.b1c11f5c.svg"
   },
   {
-    "revision": "68b79618ffcb06f1669d60b16ae01365",
-    "url": "/delundry/static/media/medal.68b79618.svg"
+    "revision": "9170fa255ad8c55d31db0f9bc205a9f5",
+    "url": "/delundry/static/media/euro.9170fa25.svg"
+  },
+  {
+    "revision": "087f3c69a9f966b8cff851c5c178bed8",
+    "url": "/delundry/static/media/medal.087f3c69.svg"
   },
   {
     "revision": "e752dd8e691e6fb3c8fba82e93d8a611",
     "url": "/delundry/static/media/mobile.e752dd8e.svg"
+  },
+  {
+    "revision": "a36188fec39608feeaaa93217b8539a3",
+    "url": "/delundry/static/media/professionalism.a36188fe.svg"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
@@ -62,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/delundry/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "a9ed4e3e547c9312c9e16a26a5740a65",
+    "url": "/delundry/static/media/sofa.a9ed4e3e.svg"
   },
   {
     "revision": "fb0574ef4edfe1134423f963d713102d",

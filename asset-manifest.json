@@ -1,33 +1,36 @@
 {
   "files": {
-    "main.css": "/delundry/static/css/main.d1805f18.chunk.css",
-    "main.js": "/delundry/static/js/main.f6c31803.chunk.js",
-    "main.js.map": "/delundry/static/js/main.f6c31803.chunk.js.map",
+    "main.css": "/delundry/static/css/main.487f6c98.chunk.css",
+    "main.js": "/delundry/static/js/main.748911ba.chunk.js",
+    "main.js.map": "/delundry/static/js/main.748911ba.chunk.js.map",
     "runtime-main.js": "/delundry/static/js/runtime-main.95f565fc.js",
     "runtime-main.js.map": "/delundry/static/js/runtime-main.95f565fc.js.map",
     "static/css/2.3d3b1026.chunk.css": "/delundry/static/css/2.3d3b1026.chunk.css",
-    "static/js/2.6ee0a579.chunk.js": "/delundry/static/js/2.6ee0a579.chunk.js",
-    "static/js/2.6ee0a579.chunk.js.map": "/delundry/static/js/2.6ee0a579.chunk.js.map",
+    "static/js/2.dc935528.chunk.js": "/delundry/static/js/2.dc935528.chunk.js",
+    "static/js/2.dc935528.chunk.js.map": "/delundry/static/js/2.dc935528.chunk.js.map",
     "index.html": "/delundry/index.html",
-    "precache-manifest.521b5c8f1e7ef61119c928ab962951ea.js": "/delundry/precache-manifest.521b5c8f1e7ef61119c928ab962951ea.js",
+    "precache-manifest.4b3b8dd05f246fd660004ed0eefa2c71.js": "/delundry/precache-manifest.4b3b8dd05f246fd660004ed0eefa2c71.js",
     "service-worker.js": "/delundry/service-worker.js",
     "static/css/2.3d3b1026.chunk.css.map": "/delundry/static/css/2.3d3b1026.chunk.css.map",
-    "static/css/main.d1805f18.chunk.css.map": "/delundry/static/css/main.d1805f18.chunk.css.map",
+    "static/css/main.487f6c98.chunk.css.map": "/delundry/static/css/main.487f6c98.chunk.css.map",
     "static/media/bag10.svg": "/delundry/static/media/bag10.f3b0da0c.svg",
     "static/media/bag18.svg": "/delundry/static/media/bag18.029ea397.svg",
     "static/media/bubbles.svg": "/delundry/static/media/bubbles.bc202549.svg",
     "static/media/dance.svg": "/delundry/static/media/dance.b1c11f5c.svg",
-    "static/media/medal.svg": "/delundry/static/media/medal.68b79618.svg",
+    "static/media/euro.svg": "/delundry/static/media/euro.9170fa25.svg",
+    "static/media/medal.svg": "/delundry/static/media/medal.087f3c69.svg",
     "static/media/mobile.svg": "/delundry/static/media/mobile.e752dd8e.svg",
+    "static/media/professionalism.svg": "/delundry/static/media/professionalism.a36188fe.svg",
     "static/media/slick-theme.css": "/delundry/static/media/slick.f97e3bbf.svg",
+    "static/media/sofa.svg": "/delundry/static/media/sofa.a9ed4e3e.svg",
     "static/media/washer.svg": "/delundry/static/media/washer.fb0574ef.svg",
     "static/media/washing-machine.svg": "/delundry/static/media/washing-machine.7c619d49.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.95f565fc.js",
     "static/css/2.3d3b1026.chunk.css",
-    "static/js/2.6ee0a579.chunk.js",
-    "static/css/main.d1805f18.chunk.css",
-    "static/js/main.f6c31803.chunk.js"
+    "static/js/2.dc935528.chunk.js",
+    "static/css/main.487f6c98.chunk.css",
+    "static/js/main.748911ba.chunk.js"
   ]
 }
