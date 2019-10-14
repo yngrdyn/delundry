@@ -19,6 +19,7 @@ class WhyUs extends Component {
       autoplay: true,
       speed: 5000,
       autoplaySpeed: 1000,
+      swipeToSlide: true,
     };
 
     return (
