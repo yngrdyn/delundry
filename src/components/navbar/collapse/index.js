@@ -11,11 +11,11 @@ const Collapse = (props) => {
       <CollapseWrapper>
         <NavLinks>
           <li><Link to="/" onClick={props.handleNavbar}>Inicio</Link></li>
-          <li><Link to="/about-us" onClick={props.handleNavbar}>Nosotros</Link></li>
-          <li><Link to="/how-we-do-it" onClick={props.handleNavbar}>Cómo lo hacemos?</Link></li>
+          {/* <li><Link to="/about-us" onClick={props.handleNavbar}>Nosotros</Link></li>
+          <li><Link to="/how-we-do-it" onClick={props.handleNavbar}>Cómo lo hacemos?</Link></li> */}
           <li><Link to="/pricing" onClick={props.handleNavbar}>Precios</Link></li>
-          <li><Link to="/contact-us" onClick={props.handleNavbar}>Contáctanos</Link></li>
-          <li><Link to="/faqs" onClick={props.handleNavbar}>Preguntas Frecuentes</Link></li>
+          {/* <li><Link to="/contact-us" onClick={props.handleNavbar}>Contáctanos</Link></li>
+          <li><Link to="/faqs" onClick={props.handleNavbar}>Preguntas Frecuentes</Link></li> */}
         </NavLinks>
       </CollapseWrapper>
     );
