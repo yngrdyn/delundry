@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/delundry/static/css/main.4e7bae1e.chunk.css",
-    "main.js": "/delundry/static/js/main.d24c4ca1.chunk.js",
-    "main.js.map": "/delundry/static/js/main.d24c4ca1.chunk.js.map",
+    "main.css": "/delundry/static/css/main.8c177f73.chunk.css",
+    "main.js": "/delundry/static/js/main.280ffbcf.chunk.js",
+    "main.js.map": "/delundry/static/js/main.280ffbcf.chunk.js.map",
     "runtime-main.js": "/delundry/static/js/runtime-main.95f565fc.js",
     "runtime-main.js.map": "/delundry/static/js/runtime-main.95f565fc.js.map",
     "static/css/2.8cf9b969.chunk.css": "/delundry/static/css/2.8cf9b969.chunk.css",
-    "static/js/2.07fe5d16.chunk.js": "/delundry/static/js/2.07fe5d16.chunk.js",
-    "static/js/2.07fe5d16.chunk.js.map": "/delundry/static/js/2.07fe5d16.chunk.js.map",
+    "static/js/2.bd96cdc4.chunk.js": "/delundry/static/js/2.bd96cdc4.chunk.js",
+    "static/js/2.bd96cdc4.chunk.js.map": "/delundry/static/js/2.bd96cdc4.chunk.js.map",
     "index.html": "/delundry/index.html",
-    "precache-manifest.b4e4106f594d63fb697b6b0f55cea2ef.js": "/delundry/precache-manifest.b4e4106f594d63fb697b6b0f55cea2ef.js",
+    "precache-manifest.cc85578683d3241b537e06b559a49290.js": "/delundry/precache-manifest.cc85578683d3241b537e06b559a49290.js",
     "service-worker.js": "/delundry/service-worker.js",
     "static/css/2.8cf9b969.chunk.css.map": "/delundry/static/css/2.8cf9b969.chunk.css.map",
-    "static/css/main.4e7bae1e.chunk.css.map": "/delundry/static/css/main.4e7bae1e.chunk.css.map",
+    "static/css/main.8c177f73.chunk.css.map": "/delundry/static/css/main.8c177f73.chunk.css.map",
     "static/media/bag10.svg": "/delundry/static/media/bag10.f3b0da0c.svg",
     "static/media/bag18.svg": "/delundry/static/media/bag18.029ea397.svg",
     "static/media/bubbles.svg": "/delundry/static/media/bubbles.bc202549.svg",
@@ -20,6 +20,7 @@
     "static/media/envelope.svg": "/delundry/static/media/envelope.a32420d3.svg",
     "static/media/euro.svg": "/delundry/static/media/euro.9170fa25.svg",
     "static/media/facebook.svg": "/delundry/static/media/facebook.601243de.svg",
+    "static/media/instagram.svg": "/delundry/static/media/instagram.92680dc8.svg",
     "static/media/medal.svg": "/delundry/static/media/medal.087f3c69.svg",
     "static/media/mobile.svg": "/delundry/static/media/mobile.e752dd8e.svg",
     "static/media/professionalism.svg": "/delundry/static/media/professionalism.a36188fe.svg",
@@ -33,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.95f565fc.js",
     "static/css/2.8cf9b969.chunk.css",
-    "static/js/2.07fe5d16.chunk.js",
-    "static/css/main.4e7bae1e.chunk.css",
-    "static/js/main.d24c4ca1.chunk.js"
+    "static/js/2.bd96cdc4.chunk.js",
+    "static/css/main.8c177f73.chunk.css",
+    "static/js/main.280ffbcf.chunk.js"
   ]
 }
