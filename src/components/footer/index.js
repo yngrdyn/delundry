@@ -36,6 +36,7 @@ class Footer extends Component {
               </div>
             </div>
           </div>
+          <span className="copyright">Develop by <a href="https://www.linkedin.com/in/yngrdyn/">yngrdyn</a></span>
       </div>
     );
   }

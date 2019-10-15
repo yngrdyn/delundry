@@ -1,13 +1,15 @@
 .footer {
-    padding: 1.5rem 0 0;
+    padding: 1.5rem 0 0.5rem;
     background: #352b60;
+    display: flex;
+    flex-direction: column;
 }
 
 .footer-container {
-    padding: 0 1rem;
-    margin: 0 auto;
+    margin: 0 1.5rem;
     display: flex;
     flex-direction: column;
+    flex-grow: 1;
 }
 
 .footer-container .section {
@@ -78,14 +80,31 @@
     opacity: 0.5;
 }
 
+.copyright {
+    color: #58508d;
+    font-size: 0.75rem;
+    text-align: right;
+    margin-right: 1rem;
+}
+
+.copyright a {
+    color: #484c7f;
+    text-decoration: none;
+}
+
+.copyright a:hover {
+    color: #7f78d2;
+}
+
 @media (min-width: 769px) {
     .footer {
-        padding: 2rem 0;
+        padding: 2rem 0 1rem;
     }
 
     .footer-container {
         width: 85%;
         flex-direction: row;
+        margin-bottom: 1rem;
     }
     
     .footer-container .section {
