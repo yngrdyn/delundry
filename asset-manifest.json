@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/delundry/static/css/main.82e3bc48.chunk.css",
+    "main.css": "/delundry/static/css/main.5d42befc.chunk.css",
     "main.js": "/delundry/static/js/main.e739acda.chunk.js",
     "main.js.map": "/delundry/static/js/main.e739acda.chunk.js.map",
     "runtime-main.js": "/delundry/static/js/runtime-main.95f565fc.js",
@@ -9,10 +9,10 @@
     "static/js/2.bd96cdc4.chunk.js": "/delundry/static/js/2.bd96cdc4.chunk.js",
     "static/js/2.bd96cdc4.chunk.js.map": "/delundry/static/js/2.bd96cdc4.chunk.js.map",
     "index.html": "/delundry/index.html",
-    "precache-manifest.f289f6a75ac5813cfd85e0e54c8a3fd3.js": "/delundry/precache-manifest.f289f6a75ac5813cfd85e0e54c8a3fd3.js",
+    "precache-manifest.ca4c0be736766ecbdfdf0d21376dd711.js": "/delundry/precache-manifest.ca4c0be736766ecbdfdf0d21376dd711.js",
     "service-worker.js": "/delundry/service-worker.js",
     "static/css/2.8cf9b969.chunk.css.map": "/delundry/static/css/2.8cf9b969.chunk.css.map",
-    "static/css/main.82e3bc48.chunk.css.map": "/delundry/static/css/main.82e3bc48.chunk.css.map",
+    "static/css/main.5d42befc.chunk.css.map": "/delundry/static/css/main.5d42befc.chunk.css.map",
     "static/media/bag10.svg": "/delundry/static/media/bag10.f3b0da0c.svg",
     "static/media/bag18.svg": "/delundry/static/media/bag18.029ea397.svg",
     "static/media/bubbles.svg": "/delundry/static/media/bubbles.bc202549.svg",
@@ -35,7 +35,7 @@
     "static/js/runtime-main.95f565fc.js",
     "static/css/2.8cf9b969.chunk.css",
     "static/js/2.bd96cdc4.chunk.js",
-    "static/css/main.82e3bc48.chunk.css",
+    "static/css/main.5d42befc.chunk.css",
     "static/js/main.e739acda.chunk.js"
   ]
 }
