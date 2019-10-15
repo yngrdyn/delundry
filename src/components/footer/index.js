@@ -17,7 +17,7 @@ class Footer extends Component {
             <div className="section">
               <Link to="/about-us">Nosotros</Link>
               <Link to="/faqs">Preguntas Frecuentes</Link>
-              <Link to="/terms-and-conditions">Términos y condiciones</Link>
+              <Link to="/terms-and-conditions">Términos del servicio</Link>
             </div>
             <div className="section">
               <span>Contact Us</span>
@@ -36,7 +36,7 @@ class Footer extends Component {
               </div>
             </div>
           </div>
-          <span className="copyright">Develop by <a href="https://www.linkedin.com/in/yngrdyn/">yngrdyn</a></span>
+          <span className="copyright">Website created by <a href="https://www.linkedin.com/in/yngrdyn/">yngrdyn</a></span>
       </div>
     );
   }
