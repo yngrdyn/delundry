@@ -3,10 +3,11 @@ import { Link } from 'react-router-dom';
 
 import './index.css';
 
-import whatsapp from '../../assets/whatsapp.svg';
 import envelope from '../../assets/envelope.svg';
 import facebook from '../../assets/facebook.svg';
+import instagram from '../../assets/instagram.svg';
 import twitter from '../../assets/twitter.svg';
+import whatsapp from '../../assets/whatsapp.svg';
 
 class Footer extends Component {
   render() {
@@ -31,6 +32,7 @@ class Footer extends Component {
               <div className="contact-us-item social">
                 <img src={facebook} alt="icono de facebook"></img>
                 <img src={twitter} alt="icono de twitter"></img>
+                <img src={instagram} alt="icono de twitter"></img>
               </div>
             </div>
           </div>
