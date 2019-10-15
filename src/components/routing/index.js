@@ -10,6 +10,7 @@ import Footer from '../footer';
 import HowWeDoIt from "../how-we-do-it";
 import Navbar from "../navbar";
 import Pricing from "../pricing";
+import TermsAndConditions from "../terms-and-conditions";
 
 class Routes extends Component {
 
@@ -23,7 +24,7 @@ class Routes extends Component {
 
     render() {
         return (
-            <div>
+            <IberiaLaundry>
                 <Navbar 
                     navbarState={this.state.navbarOpen} 
                     handleNavbar={this.handleNavbar}
@@ -35,9 +36,10 @@ class Routes extends Component {
                     <Route path="/pricing" component={Pricing} />
                     <Route path="/contact-us" component={ContactUs} />
                     <Route path="/faqs" component={Faqs} />
+                    <Route path="/terms-and-conditions" component={TermsAndConditions} />
                 </Wrapper>
                 <Footer></Footer>
-            </div>
+            </IberiaLaundry>
         )
     }
 
@@ -47,4 +49,11 @@ export default Routes
 
 const Wrapper = styled.div`
   padding: 7rem 0 0;
+  flex-grow: 1;
+`;
+
+const IberiaLaundry = styled.div`
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 `;

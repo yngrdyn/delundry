@@ -23,16 +23,16 @@ class Footer extends Component {
               <span>Contact Us</span>
               <div className="contact-us-item">
                 <img src={whatsapp} alt="icono de whatsapp"></img>
-                <span>+34 555 555555</span>
+                <span><a href="whatsapp://send?abid=+34555555555&text=Hello%2C%20World!">+34 555 555555</a></span>
               </div>
               <div className="contact-us-item">
                 <img src={envelope} alt="icono de email"></img>
                 <span><a href="mailto:info@iberialaundry.com">info@iberialaundry.com</a></span>
               </div>
               <div className="contact-us-item social">
-                <img src={facebook} alt="icono de facebook"></img>
-                <img src={twitter} alt="icono de twitter"></img>
-                <img src={instagram} alt="icono de twitter"></img>
+                <a href="https://www.facebook.com"><img src={facebook} alt="icono de facebook"></img></a>
+                <a href="https://www.twitter.com"><img src={twitter} alt="icono de twitter"></img></a>
+                <a href="https://www.instagram.com"><img src={instagram} alt="icono de twitter"></img></a>
               </div>
             </div>
           </div>
