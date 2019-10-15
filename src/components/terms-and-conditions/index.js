@@ -6,7 +6,7 @@ class TermsAndConditions extends Component {
   render() {
     return (
       <div className="terms-and-conditions">
-          Terms and conditions!
+          <h1>Términos del servicio</h1>
       </div>
     );
   }
