@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "37b6ce884c1446c203dcbcbd02921205",
+    "revision": "04487915de5d9fdc2cd3a41798d2aa52",
     "url": "/delundry/index.html"
   },
   {
-    "revision": "011011086b9d472a41a0",
-    "url": "/delundry/static/css/2.3d3b1026.chunk.css"
+    "revision": "703b14f7a6a718a52d42",
+    "url": "/delundry/static/css/2.8cf9b969.chunk.css"
   },
   {
-    "revision": "f983160c8f0f0e42288f",
-    "url": "/delundry/static/css/main.f1c6ae4b.chunk.css"
+    "revision": "3c88ae50819ff7a074b0",
+    "url": "/delundry/static/css/main.b4b4b434.chunk.css"
   },
   {
-    "revision": "011011086b9d472a41a0",
-    "url": "/delundry/static/js/2.ca046bed.chunk.js"
+    "revision": "703b14f7a6a718a52d42",
+    "url": "/delundry/static/js/2.07fe5d16.chunk.js"
   },
   {
-    "revision": "f983160c8f0f0e42288f",
-    "url": "/delundry/static/js/main.d4649a1b.chunk.js"
+    "revision": "3c88ae50819ff7a074b0",
+    "url": "/delundry/static/js/main.c80aeaf3.chunk.js"
   },
   {
     "revision": "529c5f847e989f535ea7",
@@ -40,8 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/delundry/static/media/dance.b1c11f5c.svg"
   },
   {
+    "revision": "a32420d3e48243ddd182c97787f81e73",
+    "url": "/delundry/static/media/envelope.a32420d3.svg"
+  },
+  {
     "revision": "9170fa255ad8c55d31db0f9bc205a9f5",
     "url": "/delundry/static/media/euro.9170fa25.svg"
+  },
+  {
+    "revision": "601243de53d9c24c1a214a6a66188820",
+    "url": "/delundry/static/media/facebook.601243de.svg"
   },
   {
     "revision": "087f3c69a9f966b8cff851c5c178bed8",
@@ -76,11 +84,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/delundry/static/media/sofa.a9ed4e3e.svg"
   },
   {
+    "revision": "d3b35b4c7d5c205bbda55c5da8539041",
+    "url": "/delundry/static/media/twitter.d3b35b4c.svg"
+  },
+  {
     "revision": "fb0574ef4edfe1134423f963d713102d",
     "url": "/delundry/static/media/washer.fb0574ef.svg"
   },
   {
     "revision": "7c619d49169154cc2abaf5e864c1ddcb",
     "url": "/delundry/static/media/washing-machine.7c619d49.svg"
+  },
+  {
+    "revision": "a19493ce93294fb3ef1e509e1cbeb027",
+    "url": "/delundry/static/media/whatsapp.a19493ce.svg"
   }
 ]);
