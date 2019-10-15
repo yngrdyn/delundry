@@ -2,13 +2,14 @@ import React, { Component } from "react"
 import { Route } from "react-router-dom"
 import styled from "styled-components";
 
-import Navbar from "../navbar";
 import App from "../../App";
 import AboutUs from "../about-us";
-import Pricing from "../pricing";
-import HowWeDoIt from "../how-we-do-it";
 import ContactUs from "../contact-us";
 import Faqs from "../faqs";
+import Footer from '../footer';
+import HowWeDoIt from "../how-we-do-it";
+import Navbar from "../navbar";
+import Pricing from "../pricing";
 
 class Routes extends Component {
 
@@ -35,6 +36,7 @@ class Routes extends Component {
                     <Route path="/contact-us" component={ContactUs} />
                     <Route path="/faqs" component={Faqs} />
                 </Wrapper>
+                <Footer></Footer>
             </div>
         )
     }

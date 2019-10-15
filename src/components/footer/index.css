@@ -1,0 +1,125 @@
+.footer {
+    padding: 2rem 0;
+    background: #352b60;
+}
+
+.footer-container {
+    padding: 0 1rem;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-container .section {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem 1rem 2rem;
+}
+
+.footer-container .section span {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #f7e8f6;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    cursor: default;
+}
+
+.footer-container a {
+    color: #f7e8f6;
+    text-decoration: none;
+    margin-bottom: 0.85rem;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+
+.footer-container a:hover {
+    color: #bd83ce;
+}
+
+.contact-us-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.contact-us-item img{
+    width: 0.75rem;
+}
+
+.footer-container .section:first-of-type {
+    padding-bottom: 0.5rem;
+    margin-top: -1rem;
+}
+
+.section .contact-us-item span{
+    font-weight: normal;
+    margin: 0 0 0 0.5rem;
+    text-transform: lowercase;
+}
+
+.section .contact-us-item span a{
+    text-transform: lowercase;
+    font-size: 1rem;
+}
+
+.contact-us-item.social {
+    margin-top: 0.85rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-us-item.social img{
+    width: 2rem;
+    margin: 0 0.2rem;
+}
+
+.contact-us-item.social img:hover{
+    opacity: 0.5;
+}
+
+@media (min-width: 769px) {
+    .footer-container {
+        width: 85%;
+        flex-direction: row;
+    }
+    
+    .footer-container .section {
+        padding: 0.5rem 3rem 1rem;
+    }
+
+    .footer-container .section:first-of-type {
+        padding-left: 0;
+        border-right: 1px solid white;
+        margin-top: 0;
+    }
+
+    .footer-container .section span {
+        font-size: 0.8rem;
+    }
+
+    .footer-container a {
+        font-size: 0.75rem;
+    }
+
+    .contact-us-item.social img{
+        width: 1.2rem;
+    }
+
+    .footer-container a {
+        font-size: 0.75rem;
+        margin-bottom: 0.4rem;
+    }
+
+    .contact-us-item.social {
+        margin-top: 0.5rem;
+    }
+
+    .contact-us-item {
+        margin-bottom: 0.35rem;
+    }
+
+    .section .contact-us-item span a{
+        font-size: 0.85rem;
+    }
+}
