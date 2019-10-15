@@ -14,7 +14,7 @@ class Footer extends Component {
       <div className="footer">
           <div className="footer-container">
             <div className="section">
-              <span>&nbsp;</span>
+              <Link to="/about-us">Nosotros</Link>
               <Link to="/faqs">Preguntas Frecuentes</Link>
               <Link to="/terms-and-conditions">Términos y condiciones</Link>
             </div>
