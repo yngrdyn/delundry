@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d082630138ca7305a35e09a4aa1e99af",
+    "revision": "84d3172c4ac2dd51b028e351bf657c17",
     "url": "/delundry/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/delundry/static/css/2.8cf9b969.chunk.css"
   },
   {
-    "revision": "064bfe67dc75f00d845b",
-    "url": "/delundry/static/css/main.d9851a10.chunk.css"
+    "revision": "40af32eba255443aa09b",
+    "url": "/delundry/static/css/main.4e7bae1e.chunk.css"
   },
   {
     "revision": "703b14f7a6a718a52d42",
     "url": "/delundry/static/js/2.07fe5d16.chunk.js"
   },
   {
-    "revision": "064bfe67dc75f00d845b",
+    "revision": "40af32eba255443aa09b",
     "url": "/delundry/static/js/main.d24c4ca1.chunk.js"
   },
   {
