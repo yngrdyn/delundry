@@ -23,7 +23,7 @@ class Footer extends Component {
               <span>Contact Us</span>
               <div className="contact-us-item">
                 <img src={whatsapp} alt="icono de whatsapp"></img>
-                <span><a href="whatsapp://send?abid=+34555555555&text=Hello%2C%20World!">+34 555 555555</a></span>
+                <span><a href="https://api.whatsapp.com/send?phone=+34555555555">+34 555 555555</a></span>
               </div>
               <div className="contact-us-item">
                 <img src={envelope} alt="icono de email"></img>
