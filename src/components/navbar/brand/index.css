@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Arista';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../../../assets/font/Arista2.0.ttf');
+}
+
+@font-face {
+    font-family: 'Arista Light';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../../../assets/font/Arista2.0light.ttf');
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Arista Light';
+    font-size: 1rem;
+    margin-top: -1.2rem;
+    margin-left: 0.5rem;
+}
+
+.text span {
+    color: #6c95b5;
+}
+
+.text span:first-of-type {
+    font-family: 'Arista';
+    font-size: 2rem;
+    letter-spacing: 0.05rem;
+    margin-bottom: -0.5rem;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .text {
+        font-size: 0.7rem;
+    }
+
+    .text span:first-of-type {
+        font-size: 1.5rem;
+        margin-bottom: -0.3rem;
+    }
+}
