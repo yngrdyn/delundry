@@ -27,7 +27,7 @@ class Footer extends Component {
               </div>
               <div className="contact-us-item">
                 <img src={envelope} alt="icono de email"></img>
-                <span><a href="mailto:info@iberialaundry.com">info@iberialaundry.com</a></span>
+                <span><a href="mailto:info@iberiawash.com">info@iberiawash.com</a></span>
               </div>
               <div className="contact-us-item social">
                 <a href="https://www.facebook.com"><img src={facebook} alt="icono de facebook"></img></a>
