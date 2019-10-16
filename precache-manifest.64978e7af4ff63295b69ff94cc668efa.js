@@ -1,27 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f84bc8574f14f20d8bc6d833596ff9ac",
+    "revision": "4d7e572792917cdef4aa5452d71fa5c1",
     "url": "/delundry/index.html"
   },
   {
-    "revision": "49b592e85c0783e8dd12",
+    "revision": "d536aad8c5f3a10ec9d7",
     "url": "/delundry/static/css/2.8cf9b969.chunk.css"
   },
   {
-    "revision": "afbc11f17cf0f8a80aeb",
-    "url": "/delundry/static/css/main.705138d4.chunk.css"
+    "revision": "15768ae0e90e36bbf24a",
+    "url": "/delundry/static/css/main.56fa4eb4.chunk.css"
   },
   {
-    "revision": "49b592e85c0783e8dd12",
-    "url": "/delundry/static/js/2.bd96cdc4.chunk.js"
+    "revision": "d536aad8c5f3a10ec9d7",
+    "url": "/delundry/static/js/2.03c22c90.chunk.js"
   },
   {
-    "revision": "afbc11f17cf0f8a80aeb",
-    "url": "/delundry/static/js/main.3bca4159.chunk.js"
+    "revision": "15768ae0e90e36bbf24a",
+    "url": "/delundry/static/js/main.66fc4cee.chunk.js"
   },
   {
     "revision": "529c5f847e989f535ea7",
     "url": "/delundry/static/js/runtime-main.95f565fc.js"
+  },
+  {
+    "revision": "ff7b55e6b1bbced22c1e9ca8ead91520",
+    "url": "/delundry/static/media/Arista2.0.ff7b55e6.ttf"
+  },
+  {
+    "revision": "ed90bbf14db8e5f10d9b63ae93756f3f",
+    "url": "/delundry/static/media/Arista2.0light.ed90bbf1.ttf"
+  },
+  {
+    "revision": "633c4fab799e6a96e30c70e75f0b5289",
+    "url": "/delundry/static/media/IberiaWash.633c4fab.svg"
   },
   {
     "revision": "f3b0da0c3a06e6d33cdf182d70081e83",
@@ -94,10 +106,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fb0574ef4edfe1134423f963d713102d",
     "url": "/delundry/static/media/washer.fb0574ef.svg"
-  },
-  {
-    "revision": "7c619d49169154cc2abaf5e864c1ddcb",
-    "url": "/delundry/static/media/washing-machine.7c619d49.svg"
   },
   {
     "revision": "a19493ce93294fb3ef1e509e1cbeb027",
