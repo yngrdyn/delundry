@@ -35,7 +35,7 @@
 
 @media (max-width: 768px) {
     .text {
-        font-size: 0.7rem;
+        font-size: 0.75rem;
     }
 
     .text span:first-of-type {
