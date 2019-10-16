@@ -107,4 +107,45 @@ outline: 3px solid transparent; /* For Windows high contrast mode. */
   .wrapper label {
     font-size: 1.3rem;
   }
+
+  .mapa {
+    margin-top: 4rem;
+    margin-bottom: -5.2rem;
+  }
+
+  .mapa h1 {
+    margin-bottom: 2rem;
+  }
+
+  .mapa img{
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .mapa {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 3rem;
+    margin-bottom: -5rem;
+    align-items: center;
+    background: #e6e6e6;
+  }
+
+  .mapa h1 {
+    margin-top: 0;
+    width: 50%;
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    margin-left: 10%;
+  }
+
+  .mapa img{
+    width: 27rem;
+    margin-right: 10%;
+  }
 }

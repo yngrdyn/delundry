@@ -5,6 +5,8 @@ import HowItWorks from './components/how-it-works';
 import OurServices from './components/our-services';
 import WhyUs from './components/why-us';
 
+import mapa from './assets/Mapa_Madrid.png';
+
 class App extends Component {
 
   render() {
@@ -19,6 +21,10 @@ class App extends Component {
         <HowItWorks></HowItWorks>
         <OurServices></OurServices>
         <WhyUs></WhyUs>
+        <div className="mapa">
+          <h1>Zonas de servicio</h1>
+          <img src={mapa} alt="mapa zona de servicio"></img>
+        </div>
       </div>
     );
   }
