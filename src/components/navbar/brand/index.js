@@ -24,7 +24,7 @@ const Brand = () => {
 export default Brand
 
 const Image = styled.img`
-  width: 4rem;
+  width: 3rem;
   margin-top: -1.5rem;
   @media (max-width: 768px) {
     width: 3rem;

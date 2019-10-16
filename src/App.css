@@ -29,7 +29,7 @@ header h1 {
   position: relative;
   margin-bottom: 1rem;
   margin-top: 3rem;
-  max-width: 60%;
+  max-width: 50%;
 }
 
 /*style label to give some more space*/
@@ -37,7 +37,6 @@ header h1 {
   display: block;
   padding: 15px 0 12px 35px;
   color: #fff;
-  font-weight: bold;
   font-size: 1.8rem;
 }
 
@@ -99,7 +98,7 @@ outline: 3px solid transparent; /* For Windows high contrast mode. */
 
   .wrapper {
     margin-top: 3rem;
-    max-width: 76%;
+    max-width: 71%;
     display: flex;
     justify-content: center;
     align-items: center;
