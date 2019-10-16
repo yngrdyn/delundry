@@ -25,9 +25,9 @@ export default Brand
 
 const Image = styled.img`
   width: 3rem;
-  margin-top: -1rem;
+  margin-top: -1.5rem;
   @media (max-width: 768px) {
-    width: 2.2rem;
+    width: 3rem;
   }
 `;
 
@@ -47,7 +47,7 @@ const Logo = styled.span`
   @media (max-width: 768px) {
     top: 2.5rem;
     right: 1rem;
-    width: 11rem;
+    width: 12rem;
     left: auto;
   }
 `;
