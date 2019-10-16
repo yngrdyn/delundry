@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/delundry/static/css/main.56fa4eb4.chunk.css",
-    "main.js": "/delundry/static/js/main.5248d53c.chunk.js",
-    "main.js.map": "/delundry/static/js/main.5248d53c.chunk.js.map",
+    "main.js": "/delundry/static/js/main.bc7b2d01.chunk.js",
+    "main.js.map": "/delundry/static/js/main.bc7b2d01.chunk.js.map",
     "runtime-main.js": "/delundry/static/js/runtime-main.95f565fc.js",
     "runtime-main.js.map": "/delundry/static/js/runtime-main.95f565fc.js.map",
     "static/css/2.8cf9b969.chunk.css": "/delundry/static/css/2.8cf9b969.chunk.css",
     "static/js/2.03c22c90.chunk.js": "/delundry/static/js/2.03c22c90.chunk.js",
     "static/js/2.03c22c90.chunk.js.map": "/delundry/static/js/2.03c22c90.chunk.js.map",
     "index.html": "/delundry/index.html",
-    "precache-manifest.59393ce0f12ca86f1fe52c06dc46a340.js": "/delundry/precache-manifest.59393ce0f12ca86f1fe52c06dc46a340.js",
+    "precache-manifest.b56f96a1d32e747216deae012a25c0b2.js": "/delundry/precache-manifest.b56f96a1d32e747216deae012a25c0b2.js",
     "service-worker.js": "/delundry/service-worker.js",
     "static/css/2.8cf9b969.chunk.css.map": "/delundry/static/css/2.8cf9b969.chunk.css.map",
     "static/css/main.56fa4eb4.chunk.css.map": "/delundry/static/css/main.56fa4eb4.chunk.css.map",
@@ -37,6 +37,6 @@
     "static/css/2.8cf9b969.chunk.css",
     "static/js/2.03c22c90.chunk.js",
     "static/css/main.56fa4eb4.chunk.css",
-    "static/js/main.5248d53c.chunk.js"
+    "static/js/main.bc7b2d01.chunk.js"
   ]
 }
