@@ -13,7 +13,7 @@ class App extends Component {
         <header className="top">
           <div className="wrapper">
             <input id="checkbox" type="checkbox" checked disabled/>
-            <label htmlFor="checkbox">Día de lavandería, listo.</label>
+            <label htmlFor="checkbox">Lavanderia a domicilio en Madrid los 7 días de la semana</label>
           </div>
         </header>
         <HowItWorks></HowItWorks>
