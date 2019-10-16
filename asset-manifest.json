@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/delundry/static/css/main.2acd90cd.chunk.css",
-    "main.js": "/delundry/static/js/main.61dac899.chunk.js",
-    "main.js.map": "/delundry/static/js/main.61dac899.chunk.js.map",
+    "main.css": "/delundry/static/css/main.10612ddf.chunk.css",
+    "main.js": "/delundry/static/js/main.ca0e0509.chunk.js",
+    "main.js.map": "/delundry/static/js/main.ca0e0509.chunk.js.map",
     "runtime-main.js": "/delundry/static/js/runtime-main.95f565fc.js",
     "runtime-main.js.map": "/delundry/static/js/runtime-main.95f565fc.js.map",
     "static/css/2.8cf9b969.chunk.css": "/delundry/static/css/2.8cf9b969.chunk.css",
-    "static/js/2.03c22c90.chunk.js": "/delundry/static/js/2.03c22c90.chunk.js",
-    "static/js/2.03c22c90.chunk.js.map": "/delundry/static/js/2.03c22c90.chunk.js.map",
+    "static/js/2.99aaf40f.chunk.js": "/delundry/static/js/2.99aaf40f.chunk.js",
+    "static/js/2.99aaf40f.chunk.js.map": "/delundry/static/js/2.99aaf40f.chunk.js.map",
     "index.html": "/delundry/index.html",
-    "precache-manifest.4a20795e969a95dc9d0f02439da63b26.js": "/delundry/precache-manifest.4a20795e969a95dc9d0f02439da63b26.js",
+    "precache-manifest.28af6cc20e6e02741e9aee69ffc739ef.js": "/delundry/precache-manifest.28af6cc20e6e02741e9aee69ffc739ef.js",
     "service-worker.js": "/delundry/service-worker.js",
     "static/css/2.8cf9b969.chunk.css.map": "/delundry/static/css/2.8cf9b969.chunk.css.map",
-    "static/css/main.2acd90cd.chunk.css.map": "/delundry/static/css/main.2acd90cd.chunk.css.map",
+    "static/css/main.10612ddf.chunk.css.map": "/delundry/static/css/main.10612ddf.chunk.css.map",
     "static/media/index.css": "/delundry/static/media/Arista2.0light.ed90bbf1.ttf",
     "static/media/IberiaWash.svg": "/delundry/static/media/IberiaWash.633c4fab.svg",
+    "static/media/Mapa_Madrid.png": "/delundry/static/media/Mapa_Madrid.8990d0d2.png",
     "static/media/bag10.svg": "/delundry/static/media/bag10.f3b0da0c.svg",
     "static/media/bag18.svg": "/delundry/static/media/bag18.029ea397.svg",
     "static/media/bubbles.svg": "/delundry/static/media/bubbles.bc202549.svg",
@@ -35,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.95f565fc.js",
     "static/css/2.8cf9b969.chunk.css",
-    "static/js/2.03c22c90.chunk.js",
-    "static/css/main.2acd90cd.chunk.css",
-    "static/js/main.61dac899.chunk.js"
+    "static/js/2.99aaf40f.chunk.js",
+    "static/css/main.10612ddf.chunk.css",
+    "static/js/main.ca0e0509.chunk.js"
   ]
 }

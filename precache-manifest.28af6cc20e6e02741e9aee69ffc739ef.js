@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "765ce0d39d9d669658c6e7c73b2a02af",
+    "revision": "d11fff273593c13f65c41040efd22ab4",
     "url": "/delundry/index.html"
   },
   {
-    "revision": "d536aad8c5f3a10ec9d7",
+    "revision": "36e59a5ad0517cd6f577",
     "url": "/delundry/static/css/2.8cf9b969.chunk.css"
   },
   {
-    "revision": "bdbebfc8d4a1bccad29c",
-    "url": "/delundry/static/css/main.2acd90cd.chunk.css"
+    "revision": "05ff7e5937e3d90accae",
+    "url": "/delundry/static/css/main.10612ddf.chunk.css"
   },
   {
-    "revision": "d536aad8c5f3a10ec9d7",
-    "url": "/delundry/static/js/2.03c22c90.chunk.js"
+    "revision": "36e59a5ad0517cd6f577",
+    "url": "/delundry/static/js/2.99aaf40f.chunk.js"
   },
   {
-    "revision": "bdbebfc8d4a1bccad29c",
-    "url": "/delundry/static/js/main.61dac899.chunk.js"
+    "revision": "05ff7e5937e3d90accae",
+    "url": "/delundry/static/js/main.ca0e0509.chunk.js"
   },
   {
     "revision": "529c5f847e989f535ea7",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "633c4fab799e6a96e30c70e75f0b5289",
     "url": "/delundry/static/media/IberiaWash.633c4fab.svg"
+  },
+  {
+    "revision": "8990d0d2e8eb02df29aa9948015099ef",
+    "url": "/delundry/static/media/Mapa_Madrid.8990d0d2.png"
   },
   {
     "revision": "f3b0da0c3a06e6d33cdf182d70081e83",
