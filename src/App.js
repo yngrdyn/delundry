@@ -5,7 +5,7 @@ import HowItWorks from './components/how-it-works';
 import OurServices from './components/our-services';
 import WhyUs from './components/why-us';
 
-import mapa from './assets/Mapa_Madrid.png';
+import mapa from './assets/Mapa_Madrid_zones.png';
 
 class App extends Component {
 
