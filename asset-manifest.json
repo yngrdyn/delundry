@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/delundry/static/css/main.10612ddf.chunk.css",
-    "main.js": "/delundry/static/js/main.29c0a15f.chunk.js",
-    "main.js.map": "/delundry/static/js/main.29c0a15f.chunk.js.map",
+    "main.css": "/delundry/static/css/main.ea33e4e6.chunk.css",
+    "main.js": "/delundry/static/js/main.99e2476c.chunk.js",
+    "main.js.map": "/delundry/static/js/main.99e2476c.chunk.js.map",
     "runtime-main.js": "/delundry/static/js/runtime-main.95f565fc.js",
     "runtime-main.js.map": "/delundry/static/js/runtime-main.95f565fc.js.map",
     "static/css/2.8cf9b969.chunk.css": "/delundry/static/css/2.8cf9b969.chunk.css",
     "static/js/2.99aaf40f.chunk.js": "/delundry/static/js/2.99aaf40f.chunk.js",
     "static/js/2.99aaf40f.chunk.js.map": "/delundry/static/js/2.99aaf40f.chunk.js.map",
     "index.html": "/delundry/index.html",
-    "precache-manifest.8a4459c833e23686211a6542f2c017d3.js": "/delundry/precache-manifest.8a4459c833e23686211a6542f2c017d3.js",
+    "precache-manifest.81c865c34b2e0feb7369ad03ddab7fc2.js": "/delundry/precache-manifest.81c865c34b2e0feb7369ad03ddab7fc2.js",
     "service-worker.js": "/delundry/service-worker.js",
     "static/css/2.8cf9b969.chunk.css.map": "/delundry/static/css/2.8cf9b969.chunk.css.map",
-    "static/css/main.10612ddf.chunk.css.map": "/delundry/static/css/main.10612ddf.chunk.css.map",
+    "static/css/main.ea33e4e6.chunk.css.map": "/delundry/static/css/main.ea33e4e6.chunk.css.map",
     "static/media/index.css": "/delundry/static/media/Arista2.0light.ed90bbf1.ttf",
     "static/media/IberiaWash.svg": "/delundry/static/media/IberiaWash.633c4fab.svg",
     "static/media/Mapa_Madrid_zones.png": "/delundry/static/media/Mapa_Madrid_zones.b2e4fbc2.png",
@@ -37,7 +37,7 @@
     "static/js/runtime-main.95f565fc.js",
     "static/css/2.8cf9b969.chunk.css",
     "static/js/2.99aaf40f.chunk.js",
-    "static/css/main.10612ddf.chunk.css",
-    "static/js/main.29c0a15f.chunk.js"
+    "static/css/main.ea33e4e6.chunk.css",
+    "static/js/main.99e2476c.chunk.js"
   ]
 }
