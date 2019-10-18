@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d11fff273593c13f65c41040efd22ab4",
+    "revision": "30dac4a960e5d0207d85f3cb7aa13f93",
     "url": "/delundry/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/delundry/static/css/2.8cf9b969.chunk.css"
   },
   {
-    "revision": "05ff7e5937e3d90accae",
+    "revision": "8213ee5bd6a99f529b7d",
     "url": "/delundry/static/css/main.10612ddf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/delundry/static/js/2.99aaf40f.chunk.js"
   },
   {
-    "revision": "05ff7e5937e3d90accae",
-    "url": "/delundry/static/js/main.ca0e0509.chunk.js"
+    "revision": "8213ee5bd6a99f529b7d",
+    "url": "/delundry/static/js/main.6028085b.chunk.js"
   },
   {
     "revision": "529c5f847e989f535ea7",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/delundry/static/media/IberiaWash.633c4fab.svg"
   },
   {
-    "revision": "8990d0d2e8eb02df29aa9948015099ef",
-    "url": "/delundry/static/media/Mapa_Madrid.8990d0d2.png"
+    "revision": "1a82e1facee79f9447c8c3ddffdbc694",
+    "url": "/delundry/static/media/Mapa_Madrid_zones.1a82e1fa.png"
   },
   {
     "revision": "f3b0da0c3a06e6d33cdf182d70081e83",
