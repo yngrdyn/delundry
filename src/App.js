@@ -23,7 +23,9 @@ class App extends Component {
         <WhyUs></WhyUs>
         <div className="mapa">
           <h1>Zonas de servicio</h1>
-          <img src={mapa} alt="mapa zona de servicio"></img>
+          <div>
+            <img src={mapa} alt="mapa zona de servicio"></img>
+          </div>
         </div>
       </div>
     );
