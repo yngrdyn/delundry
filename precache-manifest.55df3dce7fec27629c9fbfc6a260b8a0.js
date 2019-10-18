@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30dac4a960e5d0207d85f3cb7aa13f93",
+    "revision": "b5ac43085d2f356de0a3373c25f247a8",
     "url": "/delundry/index.html"
   },
   {
